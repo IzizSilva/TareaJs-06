@@ -1,0 +1,19 @@
+ /* Estilos básicos para las tarjetas */
+ .card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    max-width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.card h2 {
+    margin-top: 0;
+}
+.card ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.card ul li {
+    margin-bottom: 4px;
+}
